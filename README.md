@@ -1,4 +1,5 @@
 # MHA <> ReplicaSet 호환 변경사항
+# !!!! 기본 Replication 환경에서는 작동하지 않음
 <hr>
 
 ## masterha_check_repl 실행 시 오류 발생
